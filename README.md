@@ -15,9 +15,9 @@ The software is entirely written in **Python** and uses **NLTK** library.
 $ python3 interface.py
 ```
 Here are some screenshots of the code in execution:
-![Image 1](/images/tsa1.jpg)
-![Image 2](/images/tsa2.jpg)
-![Image 3](/images/tsa3.jpg)
+![Image 1](https://github.com/iamprerit/TwitterSentimentAnalysis/blob/master/images/tsa1.png)
+![Image 2](https://github.com/iamprerit/TwitterSentimentAnalysis/blob/master/images/tsa2.png)
+![Image 3](https://github.com/iamprerit/TwitterSentimentAnalysis/blob/master/images/tsa3.png)
 
 License
 ---
